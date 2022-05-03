@@ -2,3 +2,5 @@
 build/
 /*.c
 *.log
+*.xml
+.gitignore
