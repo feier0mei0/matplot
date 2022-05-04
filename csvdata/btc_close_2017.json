@@ -1,43 +1,43 @@
 [{
   "date": "2017-01-01",
-  "momth": "01",
+  "month": "01",
   "week": "52",
   "weekday": "Sunday",
   "close": "6928.6492"
 },
 {
   "date": "2017-01-02",
-  "momth": "01",
+  "month": "01",
   "week": "52",
   "weekday": "Monday",
   "close": "6928.6492"
 },{
   "date": "2017-01-03",
-  "momth": "01",
+  "month": "01",
   "week": "52",
   "weekday": "Tuesday",
   "close": "6928.6492"
 },{
   "date": "2017-01-04",
-  "momth": "01",
+  "month": "01",
   "week": "52",
   "weekday": "Wednesday",
   "close": "6928.6492"
 },{
   "date": "2017-01-05",
-  "momth": "01",
+  "month": "01",
   "week": "52",
   "weekday": "Thursday",
   "close": "6928.6492"
 },{
   "date": "2017-01-06",
-  "momth": "01",
+  "month": "01",
   "week": "52",
   "weekday": "Friday",
   "close": "6928.6492"
 },{
   "date": "2017-01-07",
-  "momth": "01",
+  "month": "01",
   "week": "52",
   "weekday": "Saturday",
   "close": "6928.6492"
